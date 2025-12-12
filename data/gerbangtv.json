@@ -292,5 +292,35 @@
     "title": "Villa Angker Part1",
     "image": "https://i.imgur.com/xDqJBTd.jpeg",
     "category": "list video"
+  },
+  {
+    "id": 1,
+    "title": "hantu penari",
+    "image": "https://i.imgur.com/HhCOnFK.jpeg",
+    "category": "astral"
+  },
+  {
+    "id": 2,
+    "title": "hantu india",
+    "image": "https://i.imgur.com/KohFORF.jpeg",
+    "category": "astral"
+  },
+  {
+    "id": 3,
+    "title": "hantu pocong",
+    "image": "https://i.imgur.com/hHLa2KZ.jpeg",
+    "category": "astral"
+  },
+  {
+    "id": 4,
+    "title": "kuntilanak gabut",
+    "image": "https://i.imgur.com/lWbtLYA.jpeg",
+    "category": "astral"
+  },
+  {
+    "id": 5,
+    "title": "jurig kebon",
+    "image": "https://i.imgur.com/b0uGiep.jpeg",
+    "category": "astral"
   }
 ]
